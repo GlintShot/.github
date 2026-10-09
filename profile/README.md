@@ -14,6 +14,7 @@ Capture from Flutter or Android, polish in the browser, export a store-ready ZIP
 | **[Glint-Bridge](https://github.com/GlintShot/Glint-Bridge)** | Android / web capture |
 | **[Glint-MCP](https://github.com/GlintShot/Glint-MCP)** | Agent tools |
 | **[Glint-View](https://github.com/GlintShot/Glint-View)** | On-device store preview |
+| **[skills](https://github.com/GlintShot/skills)** | Agent skill for Capture → Web → export |
 
 ```
 Capture / Bridge  →  Web  →  ZIP  →  View (optional)
